@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         Clean Reading
+// @name:zh_CN   清爽阅读
 // @namespace    http://www.lelins.com/
-// @version      0.1.3
-// @description  Reading CSDN,stackoverflow,cnblogs,jb51.net free without any advertisements and other you not want to see.
+// @version      0.1.4
+// @description  remove CSDN,stackoverflow,cnblogs,jb51.net elements you not like, such as advertisements.
+// @description:zh_CN 轻松去除CSDN,statckoverflow,cnblog,jb51等网站上很乱的东西，让你更专注于阅读内容。支持把内容直接打印为PDF
 // @author       lelins.com
 // @match        https://blog.csdn.net/*
 // @match        https://stackoverflow.com/questions/*
