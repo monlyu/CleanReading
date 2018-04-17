@@ -5,12 +5,12 @@ Tampermonkey script for everyone who want to remove elements you not like !!!
 ## Before
 
 
-![Before](img/before.png)
+![Before](https://raw.githubusercontent.com/monlyu/CleanReading/master/img/before.png)
 
 
 ## After
 
-![Before](img/after.png)
+![Before](https://raw.githubusercontent.com/monlyu/CleanReading/master/img/after.png)
 
 
 ## change log
